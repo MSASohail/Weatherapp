@@ -1,0 +1,21 @@
+1.Install Rapid api Extension
+
+
+backspace shift end
+
+
+cloud_pct=response.cloud_pct
+temp=response.temp
+feels_like=response.feels_like
+humidity=response.humidity
+min_temp=response.min_temp
+max_temp=response.max_temp
+wind_speed=response.wind_speed
+wind_degrees=response.wind_degrees
+sunrise=response.sunrise
+sunset=response.sunset
+
+
+Object { cloud_pct: 0, temp: 34, feels_like: 35, humidity: 38, min_temp: 34, max_temp: 34, wind_speed: 2.06, wind_degrees: 360, sunrise: 1678580330, sunset: 1678623256 }
+
+
